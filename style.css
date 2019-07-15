@@ -1,0 +1,25 @@
+. {
+    font-family: sans-serif
+}
+
+h1 {
+   text-align: center; 
+}
+
+body {
+    background-color: powderblue
+}
+
+.container {
+    text-align: center;
+}
+
+.form-artist {
+    display: inline-block;
+    padding: 10px;
+}
+
+.form-submit {
+    display: inline-block;
+    padding: 20px;
+}
