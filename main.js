@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
         fetch(url)
             .then(response => response.json())
             .then(function (data) {
-                
+                console.log(data)
             })
     })
 })
